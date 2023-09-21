@@ -1,21 +1,15 @@
-# Project Diploma New Explorer API Front End + Back End
-* Part of the [CN by Yandex](https://CN.yandex.com/) Web Development Bootcamp Curriculum.
+# Project  New Explorer API Front End + Back End
 
-[Demo link](/)
 
 # react-around-api-full
 The "New Explorer API" has authorization and registration handled by the back-end server and handles articles and users. 
 
-### Server
-- Api hosted on AWS Cloud
-- Server IP: 3.142.148.60
-- Back-end/Api: /
-- Front-end: TBD
+
 
 The Express NodeJs project implements the API in the backend.
 
-A responsive website using HTML5, CSS3 (flexbox, grid, BEM), JavaScript, built following the design mokup in Figma.
-This adaptive page includes form validation, interactive popups, fade-in and fade-out animations, functional like and delete buttons, modular JavaScript, and Object Oriented JS design.
+A responsive website using HTML5, CSS3 (flexbox, grid, BEM), and JavaScript, built following the design mockup in Figma.
+This adaptive page includes form validation, interactive popups, fade-in and fade-out animations, functional like and delete buttons, modular JavaScript, and Object-oriented JS design.
 
 The React Framework is used to add functionality to Form Fields in a Popup Box and save the edited values. Used BEM methodology with a nested file structure.
 
@@ -23,7 +17,7 @@ The server-side web framework Express.js is used to help deploy our own back-end
 
 The project interactivity includes:
 
-- Popup modals for: signup/signin
+- Popup modals for signup/signin
 - Adding new articles and Deleting user's own articles only
 - Liking and unliking articles
 
@@ -32,7 +26,7 @@ The project adapts to the width of various devices (from 320px to 1280px). The p
 
 **Features**
 
-- Form Popup Modal: editing profile information, adding/deleting articles with images, titles, taxt, date, link, source, image
+- Form Popup Modal: editing profile information, adding/deleting articles with images, titles, text, date, link, source, image
 - Forms are validated using javascript. card popup for each card with Delete and Like button.
 
 **Technologies**
